@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">A passionate shopware developer</h3>
+<h3 align="center">A passionate fullstack software developer</h3>
 
 <details open>
 <summary>GitHub Contribution Chart</summary>

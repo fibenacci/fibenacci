@@ -1,5 +1,5 @@
 <h1 align="center">Ben | fibenacci</h1>
-<h3 align="center">Fullstack developer with a strong backend core</h3>
+<h3 align="center">Platform Engineer & Backend Architect</h3>
 
 <p align="center">
   I build pragmatic software with a focus on <strong>scalable platforms, distributed systems and resilient backend architecture</strong>.
@@ -38,11 +38,15 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
     <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Symfony-111111?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" /></a>
     <a href="https://developer.shopware.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Shopware%206-189EFF?style=for-the-badge&logo=shopware&logoColor=white" alt="Shopware 6" /></a>
+    <a href="https://business.adobe.com/products/magento/magento-commerce.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" alt="Magento" /></a>
+    <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" /></a>
+    <a href="https://typo3.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TYPO3-FF8700?style=for-the-badge&logo=typo3&logoColor=white" alt="TYPO3" /></a>
     <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
     <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Rust-2B2B2B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" /></a>
+    <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" /></a>
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
     <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" /></a>

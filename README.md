@@ -1,4 +1,4 @@
-<h1 align="center">Ben | fibenacci</h1>
+<h1 align="center">Ben</h1>
 <h3 align="center">Fullstack Developer</h3>
 
 <p align="center">

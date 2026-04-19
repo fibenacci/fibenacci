@@ -1,36 +1,20 @@
 <h1 align="center">Ben | fibenacci</h1>
-<h3 align="center">Platform Engineer & Backend Architect</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="center">
-  I build pragmatic software with a focus on <strong>scalable platforms, distributed systems and resilient backend architecture</strong>.
-  <br />
-  My current main focus is <strong>Lombardio</strong> and the systems around it: commerce, services, integrations, infrastructure and the operational tooling needed to run them reliably.
-  <br />
-  I like to rethink systems as a whole, question inherited constraints and design solutions from first principles instead of patching symptoms.
+  I see software development not just as a sequence of functions, but as the creation of digital ecosystems. 
+  As a Fullstack Developer, I move fluently between worlds: from the precise logic of robust backend architectures 
+  to the subtle details of intuitive user interfaces. My focus is always on the symbiosis of scalability and 
+  elegance – designing systems that don't just withstand load, but convince through their clarity and long-term 
+  maintainability.
 </p>
 
-<details open>
-  <summary>What I work on</summary>
-  <p>
-    - Scalable platform architecture for real production workloads<br />
-    - Backend services, APIs and event-driven integrations<br />
-    - Kubernetes and Terraform based infrastructure<br />
-    - Search, caching and messaging with Elasticsearch, Redis and RabbitMQ<br />
-    - Security-minded system design, clean boundaries and long-term maintainability<br />
-    - Reframing problems at system level instead of optimizing isolated parts
-  </p>
-</details>
-
-<details open>
-  <summary>Main focus</summary>
-  <p>
-    Lombardio is where a lot of this comes together: domain-heavy backend work, platform architecture, service communication, operational reliability and security.
-    <br />
-    I care about solutions that scale cleanly, stay understandable under pressure and still make life easier for the people maintaining them.
-    <br />
-    That usually means stepping back, looking at the full system and rethinking how the pieces should work together before deciding where code belongs.
-  </p>
-</details>
+<p align="center">
+  Instead of patching isolated symptoms, I look at the system as a whole. I question inherited constraints 
+  and design solutions from first principles. Whether it's crafting high-availability APIs, weaving 
+  event-driven integrations, or orchestrating infrastructure that breathes with the application – I strive 
+  for solutions that scale cleanly, stay understandable under pressure, and remain a joy to maintain.
+</p>
 
 <details open>
   <summary>Core stack</summary>
@@ -74,5 +58,5 @@
 </details>
 
 <p align="center">
-  Clean architecture, security-aware design and rethinking systems from the ground up so they still hold up when traffic, complexity and team size increase.
+  Clean architecture, security-aware design, and the continuous pursuit of systems that remain resilient as traffic, complexity, and teams grow.
 </p>

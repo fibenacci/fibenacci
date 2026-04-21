@@ -1,6 +1,8 @@
 <h1 align="center">Ben</h1>
 <h3 align="center">Fullstack Developer</h3>
 
+<!--
+
 <p align="center">
   I see software development not just as a sequence of functions, but as the creation of digital ecosystems. 
   As a Fullstack Developer, I move fluently between worlds: from the precise logic of robust backend architectures 
@@ -16,6 +18,7 @@
   for solutions that scale cleanly, stay understandable under pressure, and remain a joy to maintain.
 </p>
 
+-->
 <details open>
   <summary>Core stack</summary>
   <p align="left">
@@ -56,7 +59,8 @@
     <img src="./dist/game.gif" alt="Space Invaders contribution game" />
   </p>
 </details>
-
+<!--
 <p align="center">
   Clean architecture, security-aware design, and the continuous pursuit of systems that remain resilient as traffic, complexity, and teams grow.
 </p>
+-->

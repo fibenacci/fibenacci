@@ -25,7 +25,7 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
     <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Symfony-111111?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" /></a>
     <a href="https://developer.shopware.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Shopware%206-189EFF?style=for-the-badge&logo=shopware&logoColor=white" alt="Shopware 6" /></a>
-    <a href="https://business.adobe.com/products/magento/magento-commerce.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" alt="Magento" /></a>
+    <a href="https://www.magento-opensource.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" alt="Magento" /></a>
     <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" /></a>
     <a href="https://typo3.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TYPO3-FF8700?style=for-the-badge&logo=typo3&logoColor=white" alt="TYPO3" /></a>
     <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
